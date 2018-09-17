@@ -1,0 +1,4 @@
+[
+  "test_testando.py::test_hosts_file[docker://tomcat]", 
+  "test_testando.py::test_hosts_socket[docker://tomcat]"
+]
